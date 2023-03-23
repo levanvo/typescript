@@ -1,0 +1,8 @@
+body{
+  background: #7c7c7c;
+  color: white;
+  text-align: center;
+}
+.flex_1{display: flex; justify-content: center;}
+.flex_2{margin: 0 20px;font-size: 17px;color: white;list-style: none;text-decoration: none;}
+.flex_2:hover{transform: scale(1.1);transition: all 0.1s;color: cyan;}

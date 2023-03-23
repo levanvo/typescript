@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 23
+    },
+    {
+      "id": 2,
+      "name": "Product B update lần 2",
+      "price": "246"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 25
+    },
+    {
+      "name": "fire free",
+      "price": "1000",
+      "id": 4
+    },
+    {
+      "name": "Chồn Đất",
+      "price": "2",
+      "id": 5
+    },
+    {
+      "name": "Chồn đất Mỹ",
+      "price": "22",
+      "id": 6
+    },
+    {
+      "name": "77 susu",
+      "price": "717",
+      "id": 7
+    }
+  ]
+}

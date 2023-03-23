@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "watch": true,
+    },
+    "include": ["src","src2","src3"],
+}
+
+// tsc --watch
+// tsc app.ts --watch
